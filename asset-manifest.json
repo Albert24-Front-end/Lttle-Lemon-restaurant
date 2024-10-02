@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Albert24-Front-end/capstone-project-restaurant-main/static/css/main.f39c19d7.css",
+    "main.js": "/Albert24-Front-end/capstone-project-restaurant-main/static/js/main.5a509d56.js",
+    "static/media/soup.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/soup.01dac9e6f37ed34d9a16.jpg",
+    "static/media/Mario and Adrian A.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/Mario and Adrian A.52aafd1b5f1c62369f54.jpg",
+    "static/media/3.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/3.cbb539d148cfa587cbd3.jpg",
+    "static/media/Meat.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/Meat.4b06aadf41a7810d7b6b.jpg",
+    "static/media/food.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/food.e8fde1dab8260efce6cf.jpg",
+    "static/media/greek salad.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/greek salad.40363b8493239b77d1fe.jpg",
+    "static/media/Drinks.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/Drinks.d8a179c4ca48b4dee967.jpg",
+    "static/media/SeaFood.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/SeaFood.6ff9e06cd162977fe99d.jpg",
+    "static/media/Salads.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/Salads.f1580ae5d47e4aa0d1e0.jpg",
+    "static/media/restauranfood.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/restauranfood.29184a8b77c93d37731f.jpg",
+    "static/media/bruchetta.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
+    "static/media/Desserts.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/Desserts.4c0a129f1ccbbeac3fb7.jpg",
+    "static/media/logo-footer.png": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/logo-footer.2c859235d6c57bb54176.png",
+    "static/media/Logo.svg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/Logo.f72c913c48c5334f78f2c336ec36f22b.svg",
+    "static/media/woman.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/woman.fcfbb077dcc9c2c70bb0.jpg",
+    "static/media/woman2.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/woman2.3372fbc83b052443f5ea.jpg",
+    "static/media/man2.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/man2.0e1e691dae60fdb756c7.jpg",
+    "static/media/man1.jpg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/man1.fd7c13efe4b4b5d39928.jpg",
+    "index.html": "/Albert24-Front-end/capstone-project-restaurant-main/index.html",
+    "static/media/icon _hamburger menu.svg": "/Albert24-Front-end/capstone-project-restaurant-main/static/media/icon _hamburger menu.0da6f67ced800ab909f63d5144de37ee.svg",
+    "main.f39c19d7.css.map": "/Albert24-Front-end/capstone-project-restaurant-main/static/css/main.f39c19d7.css.map",
+    "main.5a509d56.js.map": "/Albert24-Front-end/capstone-project-restaurant-main/static/js/main.5a509d56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f39c19d7.css",
+    "static/js/main.5a509d56.js"
+  ]
+}
